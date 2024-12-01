@@ -1,0 +1,16 @@
+{
+  "name": "nodemoon",
+  "version": "1.0.0",
+  "description": "A simple nodemon like utility, this is done for learning purposes only not meant to be used in production or development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodemoon": "index.js"
+  },
+  "keywords": ["simple-nodemon", "non-ready-production-nodemon"],
+  "author": "mohammedelmor",
+  "license": "ISC"
+}
