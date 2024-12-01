@@ -1,5 +1,5 @@
 {
-  "name": "nodemoon",
+  "name": "@mohammedelmor/nodemoon",
   "version": "1.0.0",
   "description": "A simple nodemon like utility, this is done for learning purposes only not meant to be used in production or development",
   "main": "index.js",
@@ -14,7 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/mohammedelmor/nodemoon.git"
   },
-  "keywords": ["simple-nodemon", "non-ready-production-nodemon"],
+  "keywords": [
+    "simple-nodemon",
+    "non-ready-production-nodemon"
+  ],
   "author": "mohammedelmor",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedelmor/nodemoon/issues"
+  },
+  "homepage": "https://github.com/mohammedelmor/nodemoon#readme"
 }
