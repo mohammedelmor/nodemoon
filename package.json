@@ -10,6 +10,10 @@
   "bin": {
     "nodemoon": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedelmor/nodemoon.git"
+  },
   "keywords": ["simple-nodemon", "non-ready-production-nodemon"],
   "author": "mohammedelmor",
   "license": "ISC"
